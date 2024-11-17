@@ -2,6 +2,11 @@
 
 Мы занимаемся разработкой системы распознавания лиц на видео с камеры мероприятия и ведение отчетности по посещаемости мероприятий среди сотрудников компании. 
 
+## Ссылки на развернутые проекты
+
+### [Frontend](https://mdp.devwonders.com/)
+### [Backend (Swagger Doc)](https://mdp-api.devwonders.com/docs)
+
 ## Быстрые ссылки на важные репозитории
 
 ### 1. [ML Module](https://github.com/SUPERPOSITION-8/MDP-ML-module)
